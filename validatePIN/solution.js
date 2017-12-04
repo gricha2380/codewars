@@ -1,0 +1,1 @@
+let validatePIN = (pin) => /(^\d{4}$|^\d{6}$)/.test(pin); //match exact number of digits, test against pin input and return
