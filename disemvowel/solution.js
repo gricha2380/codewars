@@ -1,0 +1,1 @@
+let disemvowel = (str) => str.replace(/[aeiouAEIOU]+/g,'');
